@@ -1,0 +1,1 @@
+This is the startup page for the game. Exsersice 3 HTML and CSS layout. 
